@@ -1,0 +1,5 @@
+Backend,
+npm install express jsonwebtoken bcrypt dotenv mongoose joi cors nodemon
+
+Frontend,
+npm install react-router-dom react-toastify
